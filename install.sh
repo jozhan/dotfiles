@@ -1,1 +1,1 @@
-export $GH_USERNAME=jozhan
+export GH_USERNAME=jozhan
